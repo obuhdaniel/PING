@@ -13,7 +13,7 @@ This is a simple Node.js project that pings a list of specified websites at regu
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/obuhdaniel/PING.git
    cd site-pinger
    ```
 2. Install dependencies:
@@ -34,7 +34,7 @@ This is a simple Node.js project that pings a list of specified websites at regu
 ## Scripts
 - Start the service:
   ```bash
-  node index.js
+  npm run start
   ```
 
 ## Dependencies
